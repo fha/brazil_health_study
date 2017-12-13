@@ -1,0 +1,1087 @@
+A00,Cholera,4
+A01,Typhoid fever and paratyphoid,6
+A02,Other salmonella infections,6
+A04,Other bacterial intestinal infections,3
+A05,"Other bacterial food poisoning,6
+A06,Amebiasis,2
+A07,Other protozoal intestinal diseases,2
+A08,"Viral intestinal infections,2
+A09,Diarrhea and gastroenteritis of presumed infectious origin,2
+A15,"Respiratory tuberculosis,4
+A16,Respiratory tuberculosis without bacteriological or histological confirmation,4
+A25,Fever transmitted by biting mouse,6
+A37,Whooping cough,1
+A38,Scarlet fever,2
+A40,Streptococcal septicemia,4
+A41,Other septicemia,3
+A46,Erysipelas,3
+A49,Bacterial infection of unspecified site,3
+A50,Congenital syphilis,2
+A51,Early syphilis,6
+A52,Syphilis late,4
+A53,Other forms and unspecified syphilis,6
+A54,Gonococcal infection,6
+A59,Trichomoniasis,6
+A60,Anogenital infection by herpes viruses [herpes simplex],6
+A63,"Other predominantly sexually transmitted diseases,6
+A64,"Sexually transmitted diseases,6
+A67,Paints [Karate],6
+A68,Recurrent fevers [borreliosis],2
+A69,Other infections with spirochetes,4
+A87,Viral meningitis,2
+A88,"Other viral infections of the central nervous system,3
+A90,Dengue [classical dengue],6
+B00,Infections by herpes viruses [herpes simplex],2
+B01,Varicella [chickenpox],2
+B02,Herpes zoster [Zone],3
+B06,Rubella,2
+B07,Warts of viral origin,4
+B08,"Other viral infections characterized by skin lesions,1
+B09,Unspecified viral infection characterized by lesions of the skin and mucous membranes,1
+B16,Acute hepatitis B,3
+B17,Other acute viral hepatitis,4
+B18,Chronic viral hepatitis,4
+B19,Viral hepatitis unspecified,3
+B20,"Disease by the human immunodeficiency virus [HIV],4
+B24,Disease by the human immunodeficiency virus [HIV] unspecified,4
+B26,Mumps [Mumps epidemic],2
+B27,Infectious mononucleosis,2
+B30,Viral conjunctivitis,2
+B33,Other diseases unclassified virus elsewhere,2
+B34,"Virus disease,2
+B35,Ringworm,4
+B36,Other superficial mycoses,6
+B37,Candidiasis,2
+B43,Chromomycosis and phaeomycotic abscess,4
+B48,"Other mycoses,6
+B49,Ringworm unspecified,6
+B77,Ascariasis,2
+B80,Oxyuriasis,2
+B82,Intestinal parasitosis unspecified,2
+B83,Other helminths,2
+B85,Pediculosis and ftiríase,2
+B86,Scabies [scab],2
+B87,Myiasis,4
+B97,Virus as the cause of diseases classified to other chapters,6
+B99,"Infectious diseases,3
+C00,Malignant neoplasm of lip,3
+C01,Malignant neoplasm of base of tongue,4
+C02,Malignant neoplasm of other and unspecified parts of tongue,4
+C05,Malignant neoplasm of the palate,4
+C06,Malignant neoplasm of other and unspecified parts of mouth,4
+C07,Malignant neoplasm of the parotid gland,4
+C08,Malignant neoplasm of other major salivary glands and unspecified,4
+C09,Malignant neoplasm of tonsil,6
+C10,Malignant neoplasm of oropharynx,4
+C11,Malignant neoplasm of the nasopharynx,2
+C12,Malignant neoplasm of hypopharynx,4
+C13,Malignant neoplasm of hypopharynx,4
+C14,"Malignant neoplasm of other and ill-defined sites in the lip,4
+C15,Malignant neoplasm of the esophagus,4
+C16,Malignant neoplasm of stomach,4
+C17,Malignant neoplasm of small intestine,3
+C18,Malignant neoplasm of colon,4
+C19,Malignant neoplasm of rectosigmoid junction,4
+C20,Malignant neoplasm of the rectum,4
+C21,Malignant neoplasm of anus and anal canal,4
+C22,Malignant neoplasm of liver and intrahepatic bile ducts,4
+C25,Malignant neoplasm of the pancreas,4
+C30,Malignant neoplasm of nasal cavity and middle ear,4
+C31,Malignant neoplasm of the sinuses,4
+C32,Malignant neoplasm of the larynx,4
+C34,Malignant neoplasm of bronchus and lung,4
+C38,"Malignant neoplasm of heart,4
+C40,Malignant neoplasm of bone and articular cartilage of limbs,4
+C41,Malignant neoplasm of bone and articular cartilage of other and unspecified sites,4
+C43,Malignant melanomas,3
+C44,Other malignant neoplasms of the skin,3
+C46,Kaposi's sarcoma,6
+C48,Malignant neoplasm of soft tissue of retroperitoneum and peritoneum,3
+C49,Malignant neoplasm of connective tissue and other soft tissues,3
+C50,Malignant neoplasm of breast,4
+C53,Malignant neoplasm of the cervix,4
+C54,Malignant neoplasm of the uterine body,4
+C56,Malignant neoplasm of the ovary,4
+C60,Malignant neoplasm of penis,4
+C61,Malignant neoplasm of prostate,4
+C62,Malignant neoplasm of the testicles,4
+C64,"Malignant neoplasm of kidney,4
+C67,Malignant neoplasm of the bladder,4
+C69,Malignant neoplasm of eye and adnexa,4
+C70,Malignant neoplasm of meninges,3
+C71,Malignant neoplasm of the brain,4
+C72,"Malignant neoplasm of spinal cord,4
+C73,Malignant neoplasm of the thyroid gland,4
+C74,Malignant neoplasm of the adrenal gland [adrenal gland],4
+C75,Malignant neoplasm of other endocrine glands and related structures,3
+C76,Malignant neoplasm of other and ill-defined sites,3
+C77,"Secondary malignant neoplasm and lymph nodes,4
+C78,Secondary malignant neoplasm of respiratory and digestive organs,4
+C79,Secondary malignant neoplasm of other sites,4
+C80,Malignant neoplasm without specification of site,4
+C81,Hodgkin's disease,4
+C82,"Non-Hodgkin's lymphoma,3
+C83,Diffuse non-Hodgkin lymphoma,3
+C84,Lymphomas of cutaneous and peripheral T cells,4
+C85,Non-Hodgkin's lymphoma and other types of unspecified type,3
+C88,Immunoproliferative malignant diseases,4
+C90,Multiple myeloma and malignant plasma cells,4
+C91,Lymphoblastic leukemia,3
+C92,Myeloid Leukemia,3
+C94,Other leukemias of specified cell type,3
+D01,Carcinoma in situ of other digestive organs,4
+D04,Carcinoma in situ skin,3
+D05,Breast carcinoma in situ,4
+D06,Carcinoma in situ of the cervix (cervix),6
+D07,Carcinoma in situ of other genitals and unspecified,4
+D09,Carcinoma in situ of other and unspecified,4
+D10,Benign neoplasm of mouth and pharynx,2
+D11,Benign neoplasm of major salivary glands,3
+D12,"Benign neoplasm of colon,4
+D13,Benign neoplasm of other and ill-defined parts of digestive system,4
+D14,Benign neoplasm of middle ear and respiratory system,4
+D16,Benign neoplasm of bone and articular cartilage,4
+D17,Benign lipomatous neoplasm,4
+D18,Hemangioma and lymphangioma any location,4
+D20,Benign neoplasm of soft tissue of retroperitoneum and peritoneum,4
+D21,Other benign tumors of connective tissue and other soft tissues,4
+D22,Melanocytic nevi,4
+D23,Other benign skin tumors,4
+D24,Benign breast neoplasm,4
+D25,Leiomyoma of the uterus,6
+D26,Other benign tumors of the uterus,4
+D27,Neoplasms benign ovarian,6
+D28,Benign neoplasm of other female genital organs and bodies not specified,4
+D29,Benign neoplasm of male genital organs,4
+D30,Benign neoplasm of urinary organs,4
+D31,Benign neoplasm of eye and adnexa,4
+D32,Benign neoplasm of meninges,4
+D33,Benign neoplasm of brain and other parts of central nervous system,4
+D34,Benign neoplasm of the thyroid gland,4
+D35,Benign neoplasm of other endocrine glands and unspecified,4
+D36,Benign neoplasm of other and unspecified sites,3
+D37,Neoplasms of uncertain or unknown behavior of oral cavity and digestive organs,4
+D38,Neoplasms of uncertain or unknown behavior of middle ear and respiratory organs and intrathoracic,4
+D39,Neoplasms of uncertain or unknown behavior of female genital organs,6
+D40,Neoplasms of uncertain or unknown behavior of male genital organs,4
+D41,Neoplasms of uncertain or unknown behavior of urinary organs,4
+D43,Neoplasms of uncertain or unknown behavior of brain and central nervous system,3
+D44,Neoplasms of uncertain or unknown behavior of endocrine glands,4
+D45,Polycythemia vera,4
+D46,Myelodysplastic syndromes,3
+D47,"Other uncertain or unknown behavior of neoplasms of lymphoid,3
+D48,Neoplasms of uncertain or unknown behavior of other and unspecified sites,4
+D50,Iron deficiency anemia,3
+D51,Vitamin B12 deficiency anemia,4
+D53,Other nutritional anemias,3
+D56,Thalassemia,3
+D57,Sickle disorders,6
+D59,Acquired hemolytic anemia,4
+D61,Other aplastic anemia,4
+D62,Posthemorrhagic acute anemia,3
+D63,Anemia in chronic diseases classified elsewhere,4
+D64,Other anemias,3
+D68,Other clotting defects,3
+D69,Purpura and other haemorrhagic conditions,3
+D70,Agranulocytosis,4
+D71,Functional disorders of polymorphonuclear neutrophils,4
+D72,Other disorders of white blood cells,4
+D75,Other diseases of blood and blood-forming organs,3
+D77,Other disorders of blood and blood-forming organs in diseases classified elsewhere,4
+D80,Immunodeficiency with predominantly antibody defects,4
+E00,Congenital deficiency syndrome iodine,3
+E01,Thyroid disorders and associated diseases related to iodine deficiency,4
+E02,Subclinical hypothyroidism by iodine deficiency,3
+E03,Other hipotireoidismos,4
+E04,Other nontoxic goitre,4
+E05,Thyrotoxicosis [hyperthyroidism],4
+E06,Thyroiditis,4
+E07,Other thyroid disorders,4
+E10,Insulin-dependent diabetes mellitus,4
+E11,"Diabetes mellitus,4
+E13,Other specified types of diabetes mellitus,4
+E14,Diabetes mellitus unspecified,4
+E16,Other disorders of pancreatic internal secretion,4
+E20,Hypoparathyroidism,3
+E21,Hyperparathyroidism and other disorders of parathyroid gland,4
+E22,Hyperfunction of the hypophysis,6
+E23,Hypofunction and other disorders of the pituitary gland,4
+E25,Adrenogenitais disorders,3
+E28,Ovarian dysfunction,6
+E29,Testicular dysfunction,4
+E30,Puberty disorders not elsewhere classified,2
+E34,Other endocrine disorders,4
+E35,Disorders of the endocrine glands in diseases classified elsewhere,4
+E44,Protein-energy malnutrition of moderate and mild degree,3
+E45,Developmental delay due to protein-energy malnutrition,2
+E46,Protein-energy malnutrition unspecified,4
+E50,Vitamin A deficiency,6
+E54,Deficiency of ascorbic acid,4
+E55,Vitamin D deficiency,4
+E56,Other vitamin deficiencies,4
+E60,Dietary zinc deficiency,4
+E61,Deficiency of other nutrient elements,4
+E63,Other nutritional deficiencies,6
+E65,Localized adiposity,6
+E66,Obesity,6
+E68,Sequelae of hyperalimentation,6
+E70,Disorders of amino acid metabolism aromatic,4
+E73,Lactose intolerance,2
+E75,Sphingolipids metabolism disorders and other lipid storage diseases,4
+E76,Glycosaminoglycan Metabolism Disorders,3
+E78,Disorders of lipoprotein metabolism and other lipidemias,4
+E79,Purine and pyrimidine metabolism disorders,4
+E83,Disorders of Mineral Metabolism,4
+E86,Volume depletion,3
+E87,Other disorders of fluid and electrolyte balance and acid-base,3
+E88,Other metabolic disorders,6
+E89,"Endocrine and metabolic disorders after procedures,4
+E90,Nutritional and metabolic disorders in diseases classified elsewhere,4
+F00,Dementia in Alzheimer's disease,3
+F01,Vascular dementia,3
+F02,Dementia in other diseases classified elsewhere,3
+F03,Dementia unspecified,3
+F05,Delirium not induced by alcohol and other psychoactive substances,3
+F06,Other mental disorders due to brain damage and dysfunction and to physical disease,3
+F10,Mental and behavioral disorders due to use of alcohol,6
+F14,Mental and behavioral disorders due to use of cocaine,6
+F17,Mental and behavioral disorders due to use of tobacco,4
+F19,Mental and behavioral disorders due to multiple drug use and use of other psychoactive substances,6
+F20,Schizophrenia,3
+F29,Nonorganic psychosis unspecified,6
+F31,Bipolar affective disorder,6
+F32,Depressive episodes,4
+F33,Recurrent depressive disorder,6
+F34,Mood disorders [affective] persistent,3
+F39,Mood disorder [emotional] not specified,3
+F40,Phobic anxiety disorders,6
+F41,Other anxiety disorders,6
+F42,Obsessive-compulsive disorder,3
+F43,Reactions to severe stress and adjustment disorders,6
+F44,Dissociative [conversion],4
+F45,Somatoform disorders,4
+F48,Other neurotic disorders,4
+F50,Eating disorders,6
+F51,Non-organic sleep disorders due to emotional factors,3
+F52,"Sexual dysfunction,4
+F60,Specific personality disorders,6
+F68,Other personality disorders and adult behavior,4
+F80,Specific developmental disorders of speech and language,2
+F81,Specific developmental disorders of scholastic skills,2
+F82,Specific disorder of motor development,1
+F83,Mixed specific developmental disorders,2
+F84,Pervasive developmental disorders,2
+F88,Other disorders of psychological development,2
+F90,Hyperkinetic disorders,2
+F91,Behavioral disorders,2
+F92,Mixed disorders of conduct and emotions,2
+F93,Emotional disorders with onset specific to childhood,2
+F98,Other behavioral and emotional disorders with onset usually in childhood or adolescence,2
+F99,Mental disorder not specified elsewhere,4
+G00,"Bacterial meningitis,2
+G03,Meningitis due to other causes and unspecified causes,2
+G04,"Encephalitis,4
+G20,Parkinson's disease,4
+G24,Dystonia,4
+G25,Other extrapyramidal and movement disorders,4
+G30,Alzheimer's disease,3
+G31,Other degenerative diseases of the nervous system not classified elsewhere,4
+G35,Multiple sclerosis,4
+G37,Other Demyelinating diseases of the central nervous system,4
+G40,Epilepsy,4
+G41,Status epilepticus,4
+NA,NA,3
+G43,Migraine,6
+G44,Other syndromes pains cephalic,6
+G45,Transient ischemic strokes and related syndromes,3
+G46,Cerebrovascular syndromes occurring in cerebrovascular diseases,4
+G47,Sleep disorders,4
+G50,Trigeminal nerve disorders,3
+G51,Disorders of the facial nerve,4
+G52,Disorders of other cranial nerves,4
+G53,Cranial nerve disorders in diseases classified elsewhere,4
+G54,Disorders Nerve root and plexus,4
+G55,Compressions root and plexus in diseases classified elsewhere,4
+G56,Mononeuropathies of upper limb,4
+G57,Mononeuropathies of lower limb,4
+G58,Other mononeuropathies,4
+G60,Hereditary neuropathy and idiopathic,3
+G61,Inflammatory polyneuropathy,4
+G62,Other polyneuropathies,4
+G63,Polyneuropathy in diseases classified elsewhere,4
+G70,Myasthenia gravis and other neuromuscular disorders,4
+G71,Primary disorders of muscles,4
+G72,Other myopathies,4
+G80,Cerebral palsy,2
+G81,Hemiplegia,4
+G82,Paraplegia and tetraplegia,3
+G83,Other paralytic syndromes,4
+G90,The autonomic nervous system disorders,4
+G91,Hydrocephalus,3
+G93,Other disorders of brain,3
+G96,Other disorders of the central nervous system,4
+G98,"Other disorders of nervous system,4
+G99,Other disorders of nervous system in diseases classified elsewhere,4
+H00,Stye and chalazion,6
+H01,Other eyelid inflammation,4
+H02,Other eyelid disorders,4
+H04,Disorders of lacrimal system,4
+H05,Orbit disorders,4
+H10,Conjunctivitis,2
+H11,Other disorders of the conjunctiva,4
+H13,Disorders of conjunctiva in diseases classified elsewhere,6
+H15,Disorders of the sclera,6
+H16,Keratitis,4
+H17,Scarring and corneal opacities,4
+H18,Other disorders of the cornea,4
+H19,The sclera and cornea disorders in diseases classified elsewhere,4
+H20,Iridocyclitis,4
+H21,Other disorders of iris and ciliary body,4
+H25,Senile cataract,4
+H26,Other cataracts,4
+H27,Other disorders of lens,4
+H30,Chorioretinal inflammation,4
+H31,Other disorders of choroid,3
+H32,Chorioretinal disorders in diseases classified elsewhere,4
+H33,Retinal detachments and defects,4
+H34,Retinal vascular occlusions,4
+H35,Other retinal disorders,3
+H36,Retinal disorders in diseases classified elsewhere,4
+H40,Glaucoma,4
+H43,Disorders of vitreous body,4
+H44,Eyeball disorders,4
+H45,Disorders of vitreous body and globe in diseases classified elsewhere,6
+H46,Optic neuritis,6
+H47,Other disorders of optic nerve and visual pathways,4
+H50,Other strabismus,2
+H51,Other disorders of binocular movement,6
+H52,Disorders of refraction and accommodation,4
+H53,Visual disturbances,4
+H54,Blindness and low vision,3
+H57,Other disorders of the eye and annexes,4
+H58,Other disorders of eye and adnexa in diseases classified elsewhere,4
+H59,Eye disorders and post-procedure attachments not elsewhere classified,4
+H60,Otitis externa,2
+H61,Other disorders of external ear,3
+H62,Disorders of external ear in diseases classified elsewhere,4
+H65,Otitis media nonsuppurative,2
+H66,Suppurative otitis media and unspecified,2
+H67,Otitis media in diseases classified elsewhere,2
+H68,Salpingitis and obstruction of the Eustachian tube,6
+H69,Other disorders of Eustachian tube,6
+H70,Mastoiditis and related conditions,6
+H71,Middle ear cholesteatoma,3
+H72,Perforated eardrum,3
+H80,Otosclerosis,3
+H81,Disorders of vestibular function,4
+H82,Vertiginous syndromes in diseases classified elsewhere,3
+H83,Other disorders of the inner ear,4
+H90,Hearing loss by conduction disorder and / or sensorineural,3
+H91,Other hearing loss,3
+H92,Ear pain and hearing secretion,2
+H93,Other ear disorders not elsewhere classified,4
+I00,Rheumatic fever without mention of heart involvement,3
+I01,Rheumatic fever with heart involvement,4
+I05,Rheumatic disease of the mitral valve,4
+I06,Rheumatic diseases of the aortic valve,3
+I08,Diseases of multiple valves,4
+I09,Other rheumatic heart disease,4
+I10,Essential hypertension (primary),4
+I11,Hypertensive heart disease,4
+I12,Hypertensive renal disease,3
+I13,Heart disease and renal hypertensive,3
+I15,Secondary hypertension,3
+I20,Angina pectoris,4
+I21,Acute myocardial infarction,3
+I24,Other acute ischemic heart disease,4
+I25,Chronic ischemic heart disease,4
+I26,Pulmonary embolism,4
+I27,Other forms of pulmonary heart disease,4
+I30,Acute pericarditis,6
+I31,Other diseases of pericardium,3
+I34,Non-rheumatic mitral valve disorders,4
+I35,Non-rheumatic aortic valve disorders,4
+I40,Acute myocarditis,3
+I42,Cardiomyopathies,3
+I44,Atrioventricular block and left bundle branch,3
+I45,Other conduction disorders,4
+I46,Cardiac arrest,3
+I47,Paroxysmal tachycardia,4
+I48,Flutter and atrial fibrillation,4
+I49,Other cardiac arrhythmias,3
+I50,Heart failure,3
+I51,Complications of heart disease and ill-defined heart diseases,4
+I52,Other heart disorders in diseases classified elsewhere,3
+I60,Subarachnoid hemorrhage,4
+I61,Intracerebral hemorrhage,3
+I62,Other nontraumatic intracranial haemorrhage,3
+I63,Cerebral infarction,3
+I64,"Stroke,3
+I65,Occlusion and stenosis of cerebral arteries pre-not result in cerebral infarction,4
+I66,"Occlusion and stenosis of cerebral arteries,4
+I67,Other cerebrovascular diseases,4
+I68,Cerebrovascular disorders in diseases classified elsewhere,4
+I69,Sequelae of cerebrovascular diseases,3
+I70,Atherosclerosis,4
+I71,Aneurysm and aortic dissection,4
+I72,Other aneurysms,4
+I73,Other peripheral vascular diseases,3
+I74,Arterial embolism and thrombosis,3
+I77,Other diseases of the arteries and arterioles,4
+I78,Diseases of capillaries,4
+I79,"Disorders of arteries,3
+I80,Phlebitis and thrombophlebitis,3
+I81,Portal vein thrombosis,4
+I82,Another embolism and venous thrombosis,3
+I83,Varicose veins,4
+I84,Hemorrhoids,4
+I85,Esophageal varices,4
+I86,Varicose veins of other sites,4
+I87,Other disorders of veins,4
+I88,Nonspecific lymphadenitis,2
+I89,Other non-infective disorders of the lymph vessels and lymph nodes,3
+I95,Hypotension,3
+I98,Other disorders of the circulatory system in diseases classified elsewhere,4
+I99,Other disorders of the circulatory system and unspecified,4
+J00,Acute nasopharyngitis [common cold],2
+J01,Acute sinusitis,2
+J02,Acute pharyngitis,2
+J03,Acute tonsillitis,2
+J04,Laryngitis and acute tracheitis,2
+J05,Acute obstructive laryngitis [croup] and epiglottitis,6
+J06,Acute infections of the upper airways of multiple and unspecified sites,2
+J09,Influenza [flu] due to identified avian flu,2
+J10,Influenza due to other influenza viruses [flu] identified,6
+J11,Influenza [flu] due to unidentified virus,2
+J12,"Viral pneumonia,3
+J13,Pneumonia due to Streptococcus pneumoniae,2
+J14,Pneumonia due to Haemophilus influenzae,4
+J15,"Bacterial pneumonia,3
+J16,Pneumonia due to other specified infectious organisms not elsewhere classified,3
+J17,Pneumonia in diseases classified elsewhere,3
+J18,"Pneumonia,3
+J20,Acute bronchitis,2
+J21,Acute bronchiolitis,1
+J22,Acute infections unspecified lower airway,3
+J30,"Allergic rhinitis,2
+J31,"Rhinitis,6
+J32,Chronic sinusitis,6
+J33,Nasal polyp,4
+J34,Other disorders of the nose and paranasal sinuses,6
+J35,Chronic diseases of tonsils and adenoids,2
+J36,Peritonsillar abscess,6
+J37,Laryngitis and chronic laryngotracheitis,4
+J38,"Diseases of vocal cords and larynx,4
+J39,Other diseases of the upper airways,2
+J40,Bronchitis not specified as acute or chronic,2
+J41,Simple chronic bronchitis and purulent,2
+J42,Chronic bronchitis not specified,2
+J43,Emphysema,4
+J44,Other chronic obstructive pulmonary diseases,3
+J45,Asthma,2
+J46,Status asthmaticus,2
+J47,Bronchiectasis,4
+J60,Pneumoconiosis of coal miners,2
+J68,"Respiratory conditions due to inhalation of chemicals,3
+J69,Pneumonitis due to solids and liquids,3
+J70,Respiratory conditions due to other external agents,2
+J80,"Syndrome,3
+J81,"Pulmonary edema,3
+J84,Other interstitial lung diseases,4
+J90,"Pleural effusion,3
+J93,Pneumothorax,4
+J96,Unclassified respiratory failure elsewhere,3
+J98,Other respiratory disorders,2
+J99,Respiratory disorders in diseases classified elsewhere,4
+K00,Developmental disorders and eruption of teeth,1
+K01,Impacted teeth and impacted,6
+K03,Other diseases of hard dental tissues,6
+K04,Diseases of pulp and periapical tissues,4
+K05,Gingivitis and periodontal diseases,2
+K06,Other gum disorders and edentulous alveolar ridge,4
+K07,Dentofacial Anomalies (including malocclusion),4
+K08,Other disorders of the teeth and their supporting structures,6
+K09,"Cysts of oral region,3
+K10,Other diseases of jaws,4
+K11,Diseases of the salivary glands,4
+K12,Stomatitis and related lesions,1
+K13,Other diseases of the lip and oral mucosa,6
+K14,Language diseases,6
+K20,Esophagitis,4
+K21,Gastroesophageal reflux disease,4
+K22,Other diseases of the esophagus,4
+K23,Disorders of esophagus in diseases classified elsewhere,4
+K25,Gastric ulcer,4
+K26,Duodenal ulcer,4
+K27,Peptic ulcer of unspecified site,4
+K28,Ulcer gastrojejunal,6
+K29,Gastritis and duodenitis,4
+K30,Dyspepsia,4
+K31,Other diseases of the stomach and duodenum,4
+K35,Acute appendicitis,6
+K37,"Appendicitis,6
+K40,Inguinal hernia,4
+K42,Omphalocele,6
+K43,Ventral hernia,4
+K44,Diaphragmatic hernia,4
+K45,Other abdominal hernias,4
+K46,Unspecified abdominal hernia,4
+K50,Crohn's disease [regional enteritis],4
+K51,Ulcerative colitis,4
+K52,Other noninfectious gastroenteritis and colitis,2
+K56,Paralytic ileus and intestinal obstruction without hernia,3
+K57,Diverticular bowel disease,4
+K58,Irritable bowel syndrome,4
+K59,Other functional bowel disorders,2
+K60,Fissure and fistula of anal and rectal regions,4
+K61,Abscess of anal and rectal regions,4
+K62,Other diseases of the rectum and anus,4
+K63,Other diseases of intestine,4
+K65,Peritonitis,4
+K70,Alcoholic liver disease,4
+K71,Toxic liver disease,3
+K72,Liver failure not elsewhere classified,3
+K73,Chronic hepatitis not elsewhere classified,4
+K74,Liver fibrosis and cirrhosis,4
+K75,Other inflammatory liver diseases,3
+K76,Other liver diseases,4
+K77,Liver disorders in diseases classified elsewhere,4
+K80,Cholelithiasis,4
+K81,Cholecystitis,4
+K82,Other gallbladder diseases,4
+K83,Other diseases of the biliary tract,3
+K85,Acute pancreatitis,3
+K86,Other diseases of the pancreas,3
+K90,Intestinal malabsorption,3
+K91,"Disorders of post-procedures digestive system,4
+K92,Other digestive diseases,3
+K93,Disorders of other digestive organs in diseases classified elsewhere,6
+L00,Staphylococcal scalded skin syndrome of the newborn,4
+L01,Impetigo,2
+L02,"Skin abscess,4
+L03,Cellulite (phlegmon),3
+L04,Acute lymphadenitis,2
+L05,Pilonidal cyst,6
+L08,Other localized infections of the skin and subcutaneous tissue,6
+L10,Pemphigus,4
+L11,Other acantholytic conditions,6
+L13,Other bullous disorders,4
+L20,Atopic dermatitis,2
+L21,Seborrheic dermatitis,4
+L22,Diaper Dermatitis,1
+L23,Allergic contact dermatitis,6
+L24,Irritant contact dermatitis,6
+L25,Contact dermatitis unspecified,6
+L27,Dermatitis due to substances taken internally,4
+L28,Chronic simple lichen and prurigo,6
+L29,Itch,4
+L30,Other dermatitis,6
+L40,Psoriasis,4
+L42,Pityriasis rosea,6
+L43,Lichen planus,4
+L44,Other papular scaly conditions,4
+L50,Hives,2
+L51,Polymorphic erythema (erythema multiforme),6
+L52,Erythema nodosum,4
+L53,Other erythematous conditions,4
+L55,Sunburn,6
+L57,Skin changes due to chronic exposure to non-ionizing radiation,4
+L59,Other conditions of the skin and subcutaneous tissue related to radiation,4
+L60,Nail disorders,4
+L62,Nail disorders in diseases classified elsewhere,4
+L63,Alopecia areata,6
+L64,Androgenic alopecia,6
+L65,Other forms of non-scarring hair loss or hair,4
+L66,"Scarring alopecia [hair loss or hair,6
+L67,Abnormalities color and the pedicle of the hair and the hair,4
+L68,Hypertrichosis,6
+L70,Acne,6
+L71,Rosette,6
+L72,Follicular cysts of skin and subcutaneous tissue,4
+L73,Other follicular disorders,6
+L74,Disorders of the eccrine sweat glands,1
+L75,Disorders of the apocrine sweat glands,4
+L80,Vitiligo,6
+L81,Other pigmentation disorders,6
+L82,Seborrheic keratosis,4
+L83,Acanthosis nigricans,4
+L84,Corns and calluses,4
+L85,Other forms of epidermal thickening,4
+L89,Decubitus ulcer,3
+L90,Atrophic skin disorders,6
+L91,Hypertrophic skin disorders,6
+L92,Granulomatous disorders of skin and subcutaneous tissue,3
+L93,Lupus erythematosus,4
+L94,Other disorders of connective tissue located,4
+L95,"Vasculitis limited to skin,3
+L97,Ulcers of the lower limbs not elsewhere classified,3
+L98,"Other disorders of skin and subcutaneous tissue,4
+L99,Other disorders of skin and subcutaneous tissue in diseases classified elsewhere,4
+M00,Pyogenic arthritis,4
+M01,Direct infections of joint in infectious and parasitic diseases classified elsewhere,4
+M02,Arthropathy reaction,4
+M05,Sero-positive rheumatoid arthritis,4
+M06,Other rheumatoid arthritis,4
+M07,Psoriatic arthropathy and enteropathic,4
+M08,Juvenile arthritis,6
+M10,Drop,4
+M11,Other crystal deposition arthropathy,4
+M12,Other specified arthropathy,4
+M13,Other arthritis,4
+M14,Arthropathies in other diseases classified elsewhere,3
+M15,Polyarthrosis,4
+M16,Coxarthrosis [arthrosis of hip],4
+M17,Gonarthrosis [arthrosis of the knee],4
+M18,Arthrosis of the first carpometacarpal,4
+M19,Other arthrosis,4
+M20,Acquired deformities of fingers and toes,4
+M21,Other acquired deformities of limbs,2
+M22,Patella disorders [patella],6
+M23,Internal disorders of the knees,4
+M24,Other specific joint disorders,6
+M25,Other joint disorders not elsewhere classified,4
+M30,Polyarteritis nodosa and related conditions,2
+M31,Other necrotizing vasculopathies,3
+M32,Systemic lupus erythematosus [systemic],4
+M33,Dermatopoliomyositis,4
+M34,Systemic sclerosis,4
+M35,Other systemic diseases of connective tissue,4
+M36,Systemic disorders of connective tissue in diseases classified elsewhere,4
+M40,Kyphosis and lordosis,6
+M41,Scoliosis,6
+M42,Osteochondrosis of the spine,4
+M43,Other dorsopathies deforming,6
+M45,Ankylosing spondylitis,3
+M46,Other inflammatory spondylopathies,3
+M47,Spondylosis,4
+M48,Other spondylopathies,4
+M50,Disorders of the cervical discs,4
+M51,Other disorders of intervertebral discs,4
+M53,Other dorsopathies not elsewhere classified,4
+M54,Back pain,4
+M60,Myositis,6
+M61,Calcification and ossification of muscle,4
+M62,Other muscle disorders,6
+M63,Muscle disorders in diseases classified elsewhere,3
+M65,Synovitis and tenosynovitis,4
+M66,Spontaneous rupture of synovium and tendon,4
+M67,Other disorders of synovium and tendon,4
+M68,Disorder of synovium and tendon in diseases classified elsewhere,4
+M70,"Soft tissue disorders related to use,4
+M71,Other bursopatias,4
+M72,Fibroblastic disorders,4
+M73,Soft tissue disorders in diseases classified elsewhere,4
+M75,Shoulder injury,4
+M76,"Enthesopathies lower limb,4
+M77,Other enthesopathies,4
+M79,"Other soft tissue disorders,4
+M80,Osteoporosis with pathological fracture,3
+M81,Osteoporosis without pathological fracture,4
+M82,Osteoporosis in diseases classified elsewhere,4
+M83,Adult osteomalacia,4
+M84,Continuity of bone disorders,4
+M85,Other disorders of bone density and structure,4
+M86,Osteomyelitis,3
+M87,Osteonecrosis,4
+M88,Paget's disease of bone (osteitis deformans),4
+M89,Other bone disorders,4
+M90,Osteopathies in diseases classified elsewhere,4
+M91,Juvenile osteochondrosis of hip and pelvis,4
+M92,Other juvenile osteochondrosis,2
+M93,Other osteochondropathies,6
+M94,Other disorders of cartilage,6
+M95,Other acquired deformities of the musculoskeletal system and connective tissue,3
+M96,Musculoskeletal disorders post-procedures not elsewhere classified,3
+M99,Biomechanical lesions not elsewhere classified,4
+N00,Acute nephritic syndrome,4
+N01,Rapidly progressive nephritic syndrome,4
+N02,Recurrent and persistent hematuria,4
+N03,Chronic nephritic syndrome,4
+N04,Nephrotic syndrome,4
+N07,Nephropathy hereditary not elsewhere classified,4
+N08,Glomerular disorders in diseases classified elsewhere,4
+N10,Acute nephritis tubulointerstitial,3
+N11,Nephritis tubulointerstitial chronic,3
+N12,Nephritis tubulointerstitial not specified as acute or chronic,3
+N13,Obstructive uropathy and reflux,4
+N17,Acute renal failure,3
+N18,Chronic renal failure,3
+N19,Unspecified renal failure,3
+N20,Calculus of kidney and ureter,4
+N21,Calculus of lower urinary tract,4
+N22,Calculus of lower urinary tract in diseases classified elsewhere,3
+N23,Colic unspecified nefrética,6
+N25,Resulting disorders of altered renal tubular function,4
+N28,"Other disorders of kidney and ureter,4
+N29,Other disorders of kidney and ureter in diseases classified elsewhere,3
+N30,Cystitis,3
+N31,"Neuromuscular dysfunction of bladder,4
+N32,Other disorders of bladder,4
+N34,Urethritis and urethral syndrome,6
+N35,Urethral stricture,4
+N36,Other urethral disorders,6
+N37,Urethral disorders in diseases classified elsewhere,4
+N39,Other disorders of the urinary tract,3
+N40,Prostate Hyperplasia,4
+N41,Inflammatory diseases of prostate,4
+N42,Other prostate affections,3
+N43,Hydrocele and spermatocele,6
+N44,Torsion of the testis,6
+N45,Orchitis and epididymitis,6
+N46,Male infertility,6
+N47,"Hypertrophy foreskin,2
+N48,Other disorders of penis,6
+N49,"Inflammatory disorders of male genital organs,4
+N50,Other disorders of male genital organs,4
+N51,Disorders of male genital organs in diseases classified elsewhere,3
+N60,Benign mammary dysplasias,4
+N61,Inflammatory breast disorders,6
+N62,Breast enlargement,6
+N63,Breast lump unspecified,4
+N64,Other breast disease,4
+N70,Salpingitis and oophoritis,6
+N71,"Inflammatory disease of uterus,6
+N72,Inflammatory disease of the cervix,6
+N73,Other female pelvic inflammatory diseases,6
+N74,Inflammatory disorders of the female pelvis in diseases classified elsewhere,6
+N75,Bartholin gland diseases,6
+N76,Other inflammation of the vagina and vulva,6
+N77,Vulvovaginal ulceration and inflammation in diseases classified elsewhere,6
+N80,Endometriosis,6
+N81,Female genital prolapse,4
+N82,The female genital tract fistulae,4
+N83,"Noninflammatory disorders of ovary,6
+N84,The female genital tract polyp,4
+N85,"Other noninflammatory disorders of uterus,4
+N86,Erosion and ectropion of the cervix,6
+N87,Cervical dysplasia,6
+N88,Other noninflammatory disorders of cervix uteri,6
+N89,Other noninflammatory disorders of the vagina,6
+N90,Other noninflammatory disorders of vulva and perineum,3
+N91,"Absent menstruation,6
+N92,"Menstruation excessive,6
+N93,Other abnormal bleeding from the uterus and vagina,6
+N94,Pain and other conditions associated with female genital organs and menstrual cycle,6
+N95,Menopausal disorders and perimenopause,4
+N96,Habitual abortion,6
+N97,Female infertility,6
+N98,Complications associated with artificial fertilization,4
+N99,Genitourinary disorders post-procedures not elsewhere classified,4
+O00,Ectopic pregnancy,5
+O02,Other abnormal products of conception,5
+O03,Miscarriage,6
+O06,Unspecified abortion,5
+O10,"Pre-existing hypertension complicating pregnancy,3
+O12,Edema and proteinuria Gestational [pregnancy-induced] without hypertension,5
+O13,Gestational hypertension [pregnancy-induced] without significant proteinuria,5
+O14,Gestational hypertension [pregnancy-induced] with significant proteinuria,5
+O16,Unspecified maternal hypertension,5
+O20,Early pregnancy bleeding,5
+O21,Excessive vomiting in pregnancy,5
+O22,Venous complications in pregnancy,5
+O23,Infections of the genitourinary tract in pregnancy,6
+O24,Diabetes mellitus in pregnancy,6
+O26,Maternal care for other conditions predominantly related to pregnancy,5
+O28,Abnormal screening findings [screening] mother's antenatal,6
+O30,Multiple pregnancy,5
+O32,"Maternal care because of abnormal presentation,3
+O33,Maternal care for known or suspected disproportion,5
+O34,"Maternal care for abnormality,5
+O35,"Maternal care for abnormality and fetal injury,5
+O36,Maternal care for other known or suspected fetal problems,5
+O41,Other disorders of the membranes and amniotic fluid,5
+O42,Premature rupture of membranes,5
+O44,Placenta previa,5
+O47,False labor,5
+O48,Prolonged pregnancy,5
+O60,Preterm labor,5
+O62,Abnormalities of uterine contraction,5
+O63,Prolonged labor,5
+O69,Labor and delivery complicated by abnormalities of the umbilical cord,5
+O80,Single spontaneous delivery,5
+O82,Only cesarean delivery,5
+O83,Other types of single birth assisted,5
+O86,Other puerperal infections,4
+O90,Puerperal complications not elsewhere classified,5
+O91,Mammary infections associated with childbirth,5
+O92,Other disorders of breast and lactation associated with childbirth,5
+O99,"Other mother's diseases classified elsewhere but complicating pregnancy,5
+P05,Retarded fetal growth and fetal malnutrition,1
+P07,"Disorders related to short gestation and low birth weight,1
+P12,Injury of the scalp due to birth injury,4
+P22,Discomfort (anxiety) respiratory (a) of the newborn,1
+P39,Other infections specific to the perinatal period,2
+P59,Neonatal jaundice due to other causes and unspecified,1
+P92,Newborn feeding problems,1
+P96,Other conditions originating in the perinatal period,1
+Q17,Other congenital malformations of ear,6
+Q18,Other congenital malformations of face and neck,2
+Q21,Congenital malformations of cardiac septa,2
+Q25,Congenital malformations of great arteries,3
+Q38,"Other congenital malformations of tongue,1
+Q50,"Congenital malformations of ovaries,6
+Q53,Non-descended testicle,1
+Q54,Hypospadias,1
+Q61,Cystic Kidney Diseases,4
+Q62,Congenital obstructive defects of renal pelvis and ureter congenital malformations,2
+Q65,Congenital malformations of the hip,1
+Q66,Congenital deformities of the foot,2
+Q67,"Congenital musculoskeletal deformities of the head,6
+Q74,Other congenital malformations of limb,2
+Q75,Other congenital malformations of skull and face bones,3
+Q82,Other congenital malformations of skin,4
+Q90,Down's syndrome,1
+Q99,"Other abnormalities of chromosomes,2
+R00,Heart rhythm abnormalities,3
+R01,Murmurs and other heart sounds,2
+R02,"Gangrene,4
+R03,Abnormal blood pressure undiagnosed,3
+R04,Bleeding of the airways,3
+R05,Cough,2
+R06,Abnormalities of breathing,3
+R07,Sore throat and chest,4
+R09,Other symptoms and signs involving the circulatory and respiratory systems,3
+R10,Abdominal and pelvic pain,4
+R11,Nausea and vomiting,2
+R12,Heartburn,4
+R13,Dysphagia,3
+R14,Flatulence and related conditions,2
+R15,Fecal incontinence,4
+R16,"Hepatomegaly and splenomegaly,4
+R17,Jaundice unspecified,2
+R18,Ascites,4
+R19,Other symptoms and signs involving the digestive system and abdomen,4
+R20,Disturbances of skin sensation,6
+R21,Rash and other unspecified rash,2
+R22,"Swelling,4
+R23,Other skin changes,3
+R25,Abnormal involuntary movements,4
+R26,Abnormalities of gait and mobility,3
+R27,Other coordination disturbances,4
+R29,Other symptoms and signs involving the nervous and musculoskeletal systems,3
+R30,Pain associated with urination,4
+R31,Unspecified haematuria,3
+R32,Urinary incontinence unspecified,4
+R33,Urinary retention,3
+R35,Polyuria,4
+R39,Other symptoms and signs involving the urinary system,4
+R40,"Drowsiness,3
+R41,Other symptoms and signs involving cognitive functions and awareness,3
+R42,Dizziness and instability,3
+R43,Smell and taste disorders,4
+R45,Symptoms and signs involving emotional state,3
+R46,Symptoms and signs involving appearance and behavior,3
+R47,Speech disorders not elsewhere classified,2
+R48,"Dyslexia and other symbolic dysfunctions,6
+R49,Voice disorders,4
+R50,Fever of unknown origin and other origins,2
+R51,Headache,6
+R52,Pain not elsewhere classified,4
+R53,"Malaise,3
+R54,Senility,3
+R55,Syncope and collapse,3
+R56,"Convulsions,3
+R57,"Shock,3
+R58,Bleeding not elsewhere classified,3
+R59,Swelling of lymph nodes,2
+R60,Edema not elsewhere classified,3
+R61,Hyperhidrosis,6
+R62,Delay of normal physiological development,2
+R63,Symptoms and signs concerning food and fluid intake,2
+R68,Other general symptoms and signs,4
+R69,Unknown and unspecified causes of morbidity,4
+R72,Abnormality of leukocytes not elsewhere classified,4
+R73,Increased blood glucose,4
+R74,Abnormalities of serum levels of enzymes,4
+R76,Other abnormal immunological findings in serum,4
+R79,Other abnormal findings of blood chemistry tests,4
+R80,Proteinuria isolated,3
+R82,Other abnormal findings in urine,4
+R83,Abnormal findings in cerebrospinal fluid,4
+R90,Abnormal findings on diagnostic imaging of central nervous system,4
+R91,"Abnormal findings on diagnostic imaging,4
+R92,"Abnormal findings on diagnostic imaging,4
+R93,Abnormal examination findings on diagnostic imaging of other body structures,4
+R99,Other ill-defined and unspecified causes of mortality,6
+S00,Superficial injury of head,2
+S01,Head injury,3
+S02,Skull fracture and facial bones,2
+S03,"Dislocation,4
+S04,Injury of cranial nerves,4
+S05,Injury of eye and eye socket,3
+S06,Intracranial trauma,3
+S09,Other injuries of the head and unspecified,2
+S10,Superficial injury of neck,6
+S12,Neck Fracture,3
+S13,"Dislocation,6
+S14,Injury of nerves and spinal cord at neck level,4
+S20,Superficial injury of the chest,3
+S21,Chest injury,4
+S22,"Rib fracture (s),3
+S23,"Dislocation,4
+S27,Injury of other intrathoracic organs and unspecified,3
+S29,Other injuries of the chest and unspecified,3
+S30,"Superficial injury of abdomen,3
+S31,"Wound of abdomen,6
+S32,Fracture of the lumbar spine and pelvis,4
+S33,"Dislocation,4
+S34,"Injury of nerves and lumbar spinal cord at the level of the abdomen,4
+S36,Injury of intra-abdominal organs,4
+S39,"Other and unspecified injuries of abdomen,4
+S40,Superficial injury of shoulder and upper arm,3
+S41,Injury of shoulder and upper arm,4
+S42,Shoulder and arm fracture,3
+S43,"Dislocation,6
+S46,Injury of muscle and tendon at shoulder and upper arm level,4
+S49,Other injuries and unspecified shoulder and arm,2
+S50,Surface of the elbow and forearm injury,6
+S51,Injury forearm,4
+S52,Forearm fracture,3
+S53,"Dislocation,2
+S54,Injury of nerves at forearm level,4
+S56,Injury of muscle and tendon at forearm level,4
+S59,Other injuries of the forearm and unspecified,6
+S60,Surface of the wrist and hand injury,6
+S61,Wrist and hand injury,4
+S62,Fracture of wrist and hand,6
+S63,"Dislocation,6
+S64,Injury of nerves at wrist and hand level,6
+S65,Injury of blood vessels at wrist and hand level,4
+S66,Injury of muscle and tendon at wrist and hand,6
+S67,Crushing injury of wrist and hand,6
+S68,Traumatic amputation of wrist and hand,4
+S69,Other and unspecified injuries of wrist and hand,6
+S70,Superficial injury of hip and thigh,4
+S71,Wound of hip and thigh,4
+S72,Femoral Fracture,3
+S73,"Dislocation,3
+S76,Injury of muscle and tendon at hip and thigh level,6
+S80,Superficial leg injury,4
+S81,Leg injury,3
+S82,"Leg fracture,4
+S83,"Dislocation,4
+S84,Injury of peripheral nerves of the leg,4
+S86,Muscle injuries and tendon at lower leg level,4
+S89,Other injuries and unspecified leg,4
+S90,Superficial injury of ankle and foot,6
+S91,Injuries of ankle and foot,4
+S92,Fracture of the foot (except ankle),4
+S93,"Dislocation,6
+S94,Injury of nerves at ankle and foot level,4
+S95,Injury of blood vessels at ankle and foot level,6
+S96,Injuries to the muscle and tendon at ankle and foot level,4
+S99,Other and unspecified injuries of ankle and foot,6
+T00,Superficial injuries involving multiple body regions,4
+T01,Injuries involving multiple body regions,3
+T02,Fractures involving multiple body regions,3
+T03,"Dislocations,3
+T06,"Other injuries involving multiple body regions,3
+T07,Multiple injuries not specified,3
+T08,"Fracture of the spine,3
+T09,"Other injuries of spine and trunk,4
+T10,"Upper limb fracture,4
+T11,"Other injuries of upper limb,6
+T12,"Lower limb fracture,4
+T13,"Other injuries of lower limb,6
+T14,Injury of unspecified body region,2
+T15,Foreign body on the outside of the eye,4
+T16,Foreign body in the ear,3
+T17,Foreign body in respiratory tract,2
+T18,Foreign body in digestive system,2
+T19,Foreign body in genitourinary tract,3
+T20,Burn and corrosion of head and neck,4
+T21,Burn and corrosion of trunk,4
+T22,"Burn and corrosion of shoulder and upper limb,4
+T23,Burn and corrosion of wrist and hand,6
+T24,"Burn and corrosion of hip and lower limb,6
+T25,Burn and corrosion of ankle and foot,3
+T29,Burns and corrosions of multiple body regions,6
+T30,Burn and corrosion of unspecified body,6
+T31,Burns classified according to extent of body surface,4
+T42,"Poisoning by antiepileptic,3
+T43,"Poisoning by psychotropic drugs,6
+T45,"Poisoning by primarily systemic and haematological agents,3
+T50,"Poisoning by diuretics and other drugs,2
+T51,Toxic effect of alcohol,6
+T63,Toxic effect of contact with venomous animals,2
+T65,Toxic effect of other and unspecified substances,2
+T67,Effects of heat and light,3
+T74,Syndromes of abuse,4
+T78,Adverse effects not elsewhere classified,2
+T80,"Complications resulting infusion,5
+T81,Complications of procedures not elsewhere classified,4
+T84,"Complications of prosthetic devices,3
+T88,Other complications of surgical and medical care not elsewhere classified,2
+T90,Sequelae of head trauma,4
+T92,Trauma sequelae of upper limb,4
+T93,Sequelae of lower limb injuries,3
+V29,Motorcyle rider injured in other transport accidents and traffic accidents unspecified,6
+V72,Occupant injured in bus collision with another motor vehicle two or three wheels,6
+W01,"Fall on same level from slipping,3
+W06,Drop a bed,1
+W08,Loss of other types of furniture,3
+W10,Fall on and from stairs and steps,4
+W17,Other fall from one level to another,3
+W18,Other fall on same level,3
+W19,Fall unspecified,3
+W54,Bitten or struck by dog,6
+W55,Bitten or struck by other mammals,3
+W57,"Bites and insect bites and other arthropods,2
+W78,Inhalation of gastric contents,4
+X65,Voluntary self-poisoning by alcohol,6
+Y04,Assault by bodily force,6
+Y34,Facts or events unspecified and undetermined intent,4
+Y54,"Adverse effects of substances which act primarily on the metabolism of water,6
+Y55,Adverse effects of agents primarily on smooth and skeletal muscles and the respiratory system,2
+Y60,"Cut,3
+Y83,"Abnormal reaction of patient or of later complication caused by surgery and other surgical procedures,4
+Y84,Abnormal reaction of patient or of later complication caused by other medical procedures without mention of misadventure during the procedure,3
+Y91,Evidence of alcohol involvement determined by level of intoxication,6
+Z00,General examination and investigation of persons without complaint or reported diagnosis,4
+Z01,Other special examinations and investigations of persons without complaint or reported diagnosis,4
+Z02,Medical examination and consultation with administrative purposes,6
+Z03,Medical observation and evaluation for suspected diseases and conditions,4
+Z04,Examination and observation for other reasons,4
+Z09,Follow-up examination after treatment for conditions other than malignant neoplasms,4
+Z10,Routine general examination (check-up) of a defined subpopulation,4
+Z11,Special screening test (screening) of infectious and parasitic diseases,6
+Z12,Special screening test (screening) neoplasms,4
+Z13,Special screening test (screening) of other disorders and diseases,4
+Z20,Contact with and exposure to communicable diseases,2
+Z22,Carrier infectious disease,3
+Z30,Contraception,6
+Z31,Breeding measures,6
+Z32,Physical or pregnancy test,5
+Z33,Pregnancy as incidental finding,5
+Z34,Supervision of normal pregnancy,5
+Z35,High-risk pregnancy supervision,5
+Z36,Screening (screening) Prenatal,5
+Z37,Birth outcome,5
+Z38,Live births [live births] according to place of birth,1
+Z39,Assistance and post-natal examination,5
+Z41,Procedures for other purposes except health care,3
+Z42,Follow-up care involving plastic surgery,3
+Z43,Attention to artificial openings,3
+Z44,Fitting and adjustment of external prosthetic devices,3
+Z46,Fitting and adjustment of other devices,3
+Z47,Other orthopedic follow-up care,4
+Z48,Other surgical follow-up,3
+Z50,Care involving use of rehabilitation procedures,4
+Z51,Other health care,3
+Z52,Donor organs and tissues,4
+Z54,Convalescence,4
+Z71,"Persons encountering health services for other counseling and medical advice,4
+Z72,Problems related to lifestyle,6
+Z73,Issues related to the organization of their way of life,4
+Z76,Persons encountering health services in other circumstances,3
+Z80,Family history of malignant neoplasm,4
+Z82,Family history of certain disabilities and chronic diseases leading to disablement,4
+Z83,Family history of other specific disorders,4
+Z88,"History of allergy to drugs,3
+Z91,"Personal history of risk factors,3
+Z93,Artificial openings,3
+Z94,Transplanted organs and tissues,4
+Z95,Presence of implants and cardiac and vascular grafts,4
+Z96,Presence of other functional implants,4
+Z98,Other postsurgical states,4
+Z99,"Machines dependency and enabling devices,3
